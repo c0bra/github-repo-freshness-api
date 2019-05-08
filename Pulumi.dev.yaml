@@ -1,0 +1,4 @@
+config:
+  aws:profile: me
+  aws:region: us-east-2
+  github-awesome-updater:targetDomain: awesome-list.xyz

@@ -1,0 +1,14 @@
+{
+    "name": "typescript",
+    "devDependencies": {
+        "@pulumi/cloud-aws": "^0.18.0",
+        "@types/node": "latest"
+    },
+    "dependencies": {
+        "@octokit/rest": "^16.25.3",
+        "@pulumi/aws": "^0.18.3",
+        "@pulumi/pulumi": "latest",
+        "@rpl/badge-up": "^2.2.0",
+        "moment": "^2.24.0"
+    }
+}

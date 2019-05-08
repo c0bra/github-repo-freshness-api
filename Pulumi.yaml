@@ -1,0 +1,3 @@
+name: github-awesome-updater
+runtime: nodejs
+description: A minimal TypeScript Pulumi program
